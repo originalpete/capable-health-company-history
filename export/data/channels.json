@@ -1,0 +1,42 @@
+[
+  {
+    "id": "C01KB173AUU",
+    "name": "company-history",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1611066713,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "company-history",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T01K436EXD1",
+    "updated": 1624057769577,
+    "parent_conversation": null,
+    "creator": "U01K0PZTV7F",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T01K436EXD1"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "sibling channel: <#C0259DXBKUG|jamboree>",
+      "creator": "U01U6Q2Q076",
+      "last_set": 1624057769
+    },
+    "previous_names": [],
+    "num_members": 3
+  }
+]

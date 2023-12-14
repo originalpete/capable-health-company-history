@@ -1,0 +1,24 @@
+{
+  "channels": {
+    "C01KB173AUU": {
+      "messages": 148
+    }
+  },
+  "auth": {
+    "ok": true,
+    "url": "https://capable-health.slack.com/",
+    "team": "Capable Health",
+    "user": "pete",
+    "team_id": "T01K436EXD1",
+    "user_id": "U01K0PZTV7F",
+    "is_enterprise_install": false,
+    "response_metadata": {
+      "scopes": [
+        "read",
+        "client",
+        "identify",
+        "post"
+      ]
+    }
+  }
+}
